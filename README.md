@@ -50,3 +50,11 @@ Allg.Infos: https://blog.helmutkarger.de/category/projekte/feinstaubsensor/
 Feinstaub messen: http://blog.bubux.de/feinstaub-messen-nodemcu-und-sds011/ 
 meine Infos: https://github.com/Franz4596/DNMS-FaH
 
+
+# wie Platinen kaufen:  
+1. von https://github.com/hbitter/DNMS <Code> <Download ZIP>  zip runterladen: "https://github.com/hbitter/DNMS/archive/master.zip"
+2. entzippen, Gerber-Datei steht in entsprechendem Verzeichnis:  C:\...\PCBs\DNMS-????\???.???-Gerber.zip  
+3. Shop/Homepage des PCB-Verkäufers aufrufen z.B. jlcpcb.com oder dirtypcbs.com (10Stk ~30€) oder aisler.net(3Stk ~25€) oder ...  
+4. Gerber-Datei hochladen: Menü Leiterplatten "online kalkulieren" oder "berechnen" oder "File" 
+5. Kontrollieren, Kaufabwicklung abschliesen    
+    
